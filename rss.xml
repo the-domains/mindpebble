@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mindpebble]]></title>
         <description><![CDATA[Mindpebble]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mindpebble/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 08:35:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 08:37:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mindpebble/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The gospel... it is the power of God.]]></title>
-            <description><![CDATA[<h1>The gospel... it is the power of God.</h1>]]></description>
-            <link>undefinedthe-gospel-it-is-the-power-of-god/index.html</link>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7992b5e6-d352-4c80-9057-9998cfac9b9b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mindpebble/the-gospel-it-is-the-power-of-god/index.html</link>
             <guid isPermaLink="false">cdbed71b-50b5-4738-a29c-0abb343fe7f9</guid>
-            <pubDate>Fri, 17 Jun 2016 08:35:08 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2016 08:36:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

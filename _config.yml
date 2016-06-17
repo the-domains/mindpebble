@@ -2,6 +2,7 @@ name: mindpebble
 favicon: null
 layout_spectrum: 0.56336
 typography_spectrum: 0.64668
+title: Mindpebble
 cta:
   domain: null
   bucket: null

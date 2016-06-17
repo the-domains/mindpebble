@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mindpebble]]></title>
+        <description><![CDATA[Mindpebble]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 08:35:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The gospel... it is the power of God.]]></title>
+            <description><![CDATA[<h1>The gospel... it is the power of God.</h1>]]></description>
+            <link>undefinedthe-gospel-it-is-the-power-of-god/index.html</link>
+            <guid isPermaLink="false">cdbed71b-50b5-4738-a29c-0abb343fe7f9</guid>
+            <pubDate>Fri, 17 Jun 2016 08:35:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
